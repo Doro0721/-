@@ -6,4 +6,4 @@ payload:
  - DOMAIN-SUFFIX, kurogames.com
  - DOMAIN-SUFFIX, aki-game.com
  - DOMAIN-SUFFIX,kurogame.xyz
- - PROCESS-PATH,"D:\Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\Client-Win64-Shipping.exe"
+ - IP-CIDR,129.226.209.134/32,DIRECT,no-resolve
