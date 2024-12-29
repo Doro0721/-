@@ -7,3 +7,4 @@ payload:
  - DOMAIN-SUFFIX, aki-game.com
  - DOMAIN-SUFFIX,kurogame.xyz
  - IP-CIDR,129.226.209.134/32
+ - PROCESS-NAME,Client-Win64-Shipping.exe
