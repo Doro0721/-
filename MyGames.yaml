@@ -11,6 +11,7 @@ payload:
   - PROCESS-NAME,Client-Win64-Shipping.exe
  #Nikke
   - PROCESS-NAME,nikke.exe
+  - PROCESS-NAME,INTLWebViewHelper.exe
   - DOMAIN,global-lobby.nikke-kr.com
   - DOMAIN,cloud.nikke-kr.com
   - DOMAIN,sg-vas.intlgame.com
