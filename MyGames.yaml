@@ -1,34 +1,34 @@
 payload:
 #wuwa
- - DOMAIN-SUFFIX,tqos-yun.listdl.com
- - DOMAIN-SUFFIX,glcs.listdl.com
- - DOMAIN-SUFFIX,dl.listdl.com
- - DOMAIN-SUFFIX,aki-game.net
- - DOMAIN-SUFFIX, kurogames.com
- - DOMAIN-SUFFIX, aki-game.com
- - DOMAIN-SUFFIX,kurogame.xyz
- - IP-CIDR,129.226.209.134/32
- - PROCESS-NAME,Client-Win64-Shipping.exe
+  - DOMAIN-SUFFIX,tqos-yun.listdl.com
+  - DOMAIN-SUFFIX,glcs.listdl.com
+  - DOMAIN-SUFFIX,dl.listdl.com
+  - DOMAIN-SUFFIX,aki-game.net
+  - DOMAIN-SUFFIX, kurogames.com
+  - DOMAIN-SUFFIX, aki-game.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - IP-CIDR,129.226.209.134/32
+  - PROCESS-NAME,Client-Win64-Shipping.exe
  #Nikke
- - PROCESS-NAME,nikke.exe
- - DOMAIN,global-lobby.nikke-kr.com
- - DOMAIN,cloud.nikke-kr.com
- - DOMAIN,sg-vas.intlgame.com
- - DOMAIN,aws-na-dr.intlgame.com
- - DOMAIN,data-aws-na.intlgame.com
- - DOMAIN,pc.crashsight-us.iegcom.com
-- IP-CIDR,43.152.114.31/32,no-resolve
+  - PROCESS-NAME,nikke.exe
+  - DOMAIN,global-lobby.nikke-kr.com
+  - DOMAIN,cloud.nikke-kr.com
+  - DOMAIN,sg-vas.intlgame.com
+  - DOMAIN,aws-na-dr.intlgame.com
+  - DOMAIN,data-aws-na.intlgame.com
+  - DOMAIN,pc.crashsight-us.iegcom.com
+  - IP-CIDR,43.152.114.31/32,no-resolve
 
- - DOMAIN-SUFFIX,nikke-kr.com
- - DOMAIN-SUFFIX,intlgame.com
- - DOMAIN-SUFFIX,iegcom.com
+  - DOMAIN-SUFFIX,nikke-kr.com
+  - DOMAIN-SUFFIX,intlgame.com
+  - DOMAIN-SUFFIX,iegcom.com
 
 #ACE
- - DOMAIN,down.anticheatexpert.com
- - DOMAIN-SUFFIX,anticheatexpert.com
+  - DOMAIN,down.anticheatexpert.com
+  - DOMAIN-SUFFIX,anticheatexpert.com
 
 #PC NA
- - DOMAIN,catalog.gamepass.com
- - DOMAIN,na1.centauriglobal.com
- - DOMAIN-SUFFIX,gamepass.com
- - DOMAIN-SUFFIX,centauriglobal.com
+  - DOMAIN,catalog.gamepass.com
+  - DOMAIN,na1.centauriglobal.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,centauriglobal.com
