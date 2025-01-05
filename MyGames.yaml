@@ -10,13 +10,14 @@ payload:
  - IP-CIDR,129.226.209.134/32
  - PROCESS-NAME,Client-Win64-Shipping.exe
  #Nikke
+ - PROCESS-NAME,nikke.exe
  - DOMAIN,global-lobby.nikke-kr.com
  - DOMAIN,cloud.nikke-kr.com
  - DOMAIN,sg-vas.intlgame.com
  - DOMAIN,aws-na-dr.intlgame.com
  - DOMAIN,data-aws-na.intlgame.com
  - DOMAIN,pc.crashsight-us.iegcom.com
- - IP-CIDR,43.152.114.31/32,no-resolve
+- IP-CIDR,43.152.114.31/32,no-resolve
 
  - DOMAIN-SUFFIX,nikke-kr.com
  - DOMAIN-SUFFIX,intlgame.com
